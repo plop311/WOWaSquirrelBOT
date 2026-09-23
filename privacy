@@ -1,0 +1,32 @@
+# Privacy Policy
+
+**Effective Date:** September 24, 2026
+
+This Privacy Policy describes how **WOWaSquirrelBOT** ("the Bot") collects, uses, and handles information when you use our Discord bot.
+
+## 1. Information We Collect
+To function properly, the Bot may collect and process minimal data necessary for its features:
+* **Discord IDs:** Unique identifiers for users, channels, and guilds (servers) to keep track of configurations, user preferences, or game states.
+* **Command Data:** Inputs, parameters, and text messages directly passed to the Bot when executing commands.
+* **Operational Logs:** Basic error logs and timestamps used for debugging and maintaining system stability.
+
+## 2. How We Use Information
+We use the collected information solely for the following purposes:
+* To operate, maintain, and provide the features of the Bot.
+* To troubleshoot bugs, analyze performance, and improve security.
+* To enforce our Terms of Service and prevent abuse or unauthorized access.
+
+## 3. Data Sharing and Disclosure
+We do **not** sell, trade, or rent your personal data to third parties. We will only disclose information if required by law, to protect our rights, or in the event of a security audit.
+
+## 4. Data Storage and Security
+We take reasonable technical measures to secure the data processed by the Bot. However, no method of electronic storage or transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+
+## 5. Data Deletion
+If you want data associated with your server or user profile removed from our systems, you can remove the Bot from your Discord server or contact the developer via GitHub to request data purging.
+
+## 6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted by updating the "Effective Date" at the top of this page. Continued use of the Bot constitutes acceptance of those changes.
+
+## 7. Contact
+If you have any questions or concerns regarding this Privacy Policy, please reach out via the [GitHub Repository](https://github.com/plop311/WOWaSquirrelBOT).
