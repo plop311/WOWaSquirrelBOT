@@ -1,0 +1,2 @@
+# WOWaSquirrelBOT
+Term Of Service
